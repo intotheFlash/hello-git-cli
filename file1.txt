@@ -2,4 +2,8 @@ hello git
 third - mybrach
 it's spring semester already
 fourth - mybranch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> d993d8c (기능 1 추가)
